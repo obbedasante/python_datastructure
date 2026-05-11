@@ -152,9 +152,10 @@ This project is released under the MIT License, allowing reuse, modification, an
 
 ## 👤 Author
 
-Obed Asante
-GitHub: https://github.com/obbedasante/
-LinkedIn: https://www.linkedin.com/in/obbedasante/
+**Obed Asante**
+
+- 🐙 GitHub: https://github.com/obbedasante/
+- 💼 LinkedIn: https://www.linkedin.com/in/obbedasante/
 ---
 
 ## ⭐ Support
