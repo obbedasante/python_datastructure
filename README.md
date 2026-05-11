@@ -16,7 +16,7 @@ It is ideal for:
 ---
 
 ## 📁 Repository Structure
-
+```text
 python-dsa/
 │
 ├── data_structures/
@@ -73,7 +73,7 @@ python-dsa/
 ├── .gitignore
 ├── LICENSE
 └── README.md
-
+```
 ---
 
 ## 🧠 Topics Covered
